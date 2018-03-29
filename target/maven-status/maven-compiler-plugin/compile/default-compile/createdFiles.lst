@@ -1,0 +1,11 @@
+br/com/mongodbcrud/domain/Car.class
+br/com/mongodbcrud/service/CarService.class
+br/com/mongodbcrud/integration/CarRepository.class
+br/com/mongodbcrud/integration/PersonRepository.class
+br/com/mongodbcrud/web/PersonController.class
+br/com/mongodbcrud/web/CarController.class
+br/com/mongodbcrud/service/PersonService.class
+br/com/mongodbcrud/service/impl/CarServiceImpl.class
+br/com/mongodbcrud/Application.class
+br/com/mongodbcrud/service/impl/PersonServiceImpl.class
+br/com/mongodbcrud/domain/Person.class
